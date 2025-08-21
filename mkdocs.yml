@@ -141,7 +141,7 @@ nav:
       - 'Configure & Use': 'compute/k8s/config_k8s.md'
     - Virtual Machines:
       - 'Overview': 'compute/vm_service/overview.md'
-      - 'Configure & Use': 'compute/k8s/procedure.md'
+      - 'Configure & Use': 'compute/vm_service/procedure.md'
   - AI/ML Apps:
     - 'Notebooks': 'apps/notebook/config_nb.md'
   - Users:  access_control.md
