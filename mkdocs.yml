@@ -132,13 +132,17 @@ markdown_extensions:
 # Page tree
 nav:
   - White Labeled GPU Cloud: index.md
-  - Workspaces: workspace.md 
-  - Compute: 
-    - Serverless Pods: 
+  - Workspaces: workspace.md
+  - Compute:
+    - Serverless Pods:
       - 'Configure & Use': 'compute/pods/config_pods.md'
-    - Managed Kubernetes: 
+    - Managed Kubernetes:
       - 'Overview': 'compute/k8s/overview.md'
       - 'Configure & Use': 'compute/k8s/config_k8s.md'
-  - AI/ML Apps: 
+    - Virtual Machines:
+      - 'Overview': 'compute/vm_service/overview.md'
+      - 'Configure & Use': 'compute/vm_service/procedure.md'
+      - 'Configure & Use': 'compute/vm_service/metrics/dashboards.md'
+  - AI/ML Apps:
     - 'Notebooks': 'apps/notebook/config_nb.md'
   - Users:  access_control.md
