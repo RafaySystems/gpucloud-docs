@@ -119,8 +119,4 @@ description: Accelerate your AI/ML and GenAI Initiatives
     [**Groups**](admins/groups.md)
     [ | ]()
     [**Projects**](admins/projects.md)
-    [ | ]()
-    [**Audit Logs**](admins/audit.md)
-    [ | ]()
-    [**Log Aggregation-SIEM**](admins/siem/overview.md)
 </div>
