@@ -162,8 +162,8 @@ nav:
     - 'Groups': 'admins/groups.md'
     - 'Audit Logs': "admins/audit.md"
     - Audit Log Aggregation:
-        - "Overview": "admins/siem/overview.md"
-        - "CloudWatch": "admins/siem/configure-cloudwatch.md"
-        - "DataDog": "admins/siem/configure-datadog.md"
-        - "Splunk": "admins/siem/configure-splunk.md"
-        - "SumoLogic": "admins/siem/configure-sumologic.md"
+      - "Overview": "admins/siem/overview.md"
+      - "CloudWatch": "admins/siem/configure-cloudwatch.md"
+      - "DataDog": "admins/siem/configure-datadog.md"
+      - "Splunk": "admins/siem/configure-splunk.md"
+      - "SumoLogic": "admins/siem/configure-sumologic.md"

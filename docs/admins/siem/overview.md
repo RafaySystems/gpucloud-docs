@@ -9,8 +9,7 @@ tags:
   - Compliance
 ---
 
-
-Although the platform provides a centralized view of audit logs (system, kubectl and opa) and aggregates the audit logs, it does not store audit logs beyond a certain limit. Also, it is common for security operations teams to want these logs visible in their SIEM such as Splunk to ensure they can perform forensics and analytics in a standardized manner.
+It is common for security operations teams to want the audit logs forwarded to their SIEM to ensure they can perform forensics and analytics in a standardized manner.
 
 ---
 
