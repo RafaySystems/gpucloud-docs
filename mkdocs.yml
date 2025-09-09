@@ -170,5 +170,3 @@ nav:
         - "KeyCloak": "admins/sso/keycloak.md"
         - "Okta": "admins/sso/okta.md"
         - "Ping One": "admins/sso/ping.md"
-        - "Webhooks": "admins/sso/webhook_config.md"
-        - "CLI": "admins/sso/idp_rctl.md"
