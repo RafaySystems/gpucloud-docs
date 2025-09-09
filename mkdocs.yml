@@ -1,4 +1,3 @@
-
 # Project information
 site_name: ACME GPU Cloud
 site_author: admin@acme.com
@@ -160,4 +159,16 @@ nav:
     - 'Projects': 'admins/projects.md'
     - 'Users': 'admins/users.md'
     - 'Groups': 'admins/groups.md'
-    - 'Audit Logs': "admins/audit.md"
+    - Single Sign On:
+        - "Overview": "admins/sso/overview.md"
+        - "ADFS": "admins/sso/adfs.md"
+        - "Authentik": "admins/sso/authentik.md"
+        - "AWS SSO": "admins/sso/awssso.md"
+        - "Entra ID": "admins/sso/entraid.md"
+        - "Duo SSO": "admins/sso/duo.md"
+        - "Google Workspace": "admins/sso/googleworkspace.md"
+        - "KeyCloak": "admins/sso/keycloak.md"
+        - "Okta": "admins/sso/okta.md"
+        - "Ping One": "admins/sso/ping.md"
+        - "Webhooks": "admins/sso/webhook_config.md"
+        - "CLI": "admins/sso/idp_rctl.md"
