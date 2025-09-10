@@ -158,7 +158,9 @@ nav:
     - 'Multiple Orgs': 'admins/multi_orgs.md'
     - 'Access Control': 'admins/access_control.md'
     - 'Projects': 'admins/projects.md'
-    - 'Quota Management': 'admins/profile_quota.md'
+    - 'Quota Management':
+      - "Profile Quota": 'admins/profile_quota.md'
+      - "Resource Quota": 'admins/resource_quotas.md'
     - 'Users': 'admins/users.md'
     - 'Groups': 'admins/groups.md'
     - 'Single Sign On':
@@ -172,11 +174,11 @@ nav:
         - "KeyCloak": "admins/sso/keycloak.md"
         - "Okta": "admins/sso/okta.md"
         - "Ping One": "admins/sso/ping.md"
-    - 'Audit Logs': 
+    - 'Audit Logs':
         - "Overview": "admins/audit.md"
-    - 'SIEM Integration': 
+    - 'SIEM Integration':
       - 'Overview': "admins/siem/overview.md"
       - 'CloudWatch': "admins/siem/configure-cloudwatch.md"
       - 'Datadog': "admins/siem/configure-datadog.md"
       - 'Splunk': "admins/siem/configure-splunk.md"
-      - 'Sumulogic': "admins/siem/configure-sumologic.md" 
+      - 'Sumulogic': "admins/siem/configure-sumologic.md"
