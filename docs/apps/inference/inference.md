@@ -83,7 +83,7 @@ An illustrative example is shown below
 ```
 curl -X POST https://gemma-3-27b-it-0ea8s.inference.democloud.com/v1/completions \
 	-H "Content-Type: application/json" \
-	-H "Authorization: Bearer 98d7533d464f3c83b79b54e05d73dddf" \
+	-H "Authorization: Bearer <API Key>" \
 	-d '{
 	"model": "google/gemma-3-27b-it",
 	"prompt": "What is the full form of LLM?",
